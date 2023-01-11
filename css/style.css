@@ -1,0 +1,10 @@
+body {
+     background-color: black;
+}
+
+.header {
+     border: solid greenyellow;
+     color: aquamarine;
+     background-color: darkturquoise;
+     text-align: center;
+}
